@@ -1,0 +1,17 @@
+{
+  "name": "freetaxusa-skill",
+  "owner": {
+    "name": "Arash Vakil",
+    "email": "arash@arashvakil.com"
+  },
+  "metadata": {
+    "description": "Claude Code skill for navigating FreeTaxUSA with browser automation — verify W-2/1099 data, fix React form inputs, resolve Tax Return Alerts"
+  },
+  "plugins": [
+    {
+      "name": "freetaxusa",
+      "source": "./plugins/freetaxusa",
+      "description": "Navigate FreeTaxUSA to verify entered tax data against source documents, resolve Tax Return Alerts, and enter or correct values in the browser."
+    }
+  ]
+}

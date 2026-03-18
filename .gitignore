@@ -1,0 +1,23 @@
+# Dependencies
+showcase/node_modules/
+
+# Build output
+showcase/out/
+*.mp4
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Secrets / personal tax data
+*.pdf
+*.xlsx
+*.xls
+CLAUDE.md
+.freetaxusa-checkpoint.json
+audit-*.md
+showcase/

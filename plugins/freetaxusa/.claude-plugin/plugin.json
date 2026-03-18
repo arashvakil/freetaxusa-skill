@@ -1,0 +1,11 @@
+{
+  "name": "freetaxusa",
+  "description": "Navigate FreeTaxUSA with Claude Code + browser automation. Verify W-2/1099 data against source documents, resolve Tax Return Alerts, handle React form inputs, and manage complex depreciation schedules.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Arash Vakil",
+    "url": "https://github.com/arashvakil"
+  },
+  "keywords": ["tax", "freetaxusa", "schedule-e", "w2", "browser-automation"],
+  "license": "MIT"
+}
